@@ -1,0 +1,17 @@
+theme = Catppuccin Mocha
+font-size = 18
+bell-features = no-title
+macos-titlebar-proxy-icon = hidden
+shell-integration-features = no-title
+
+# Padding chiều ngang (trái/phải)
+window-padding-x = 15
+window-padding-y = 15
+
+background-blur = true
+background-opacity = 0.85
+# (Tùy chọn) Cân bằng padding để nội dung luôn giữa
+window-padding-balance = true
+
+cursor-style = block
+cursor-style-blink = true
