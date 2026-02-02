@@ -1,4 +1,10 @@
+# macOS
 .DS_Store
+
+# Editor
 *.swp
 *.swo
 *~
+
+# Backups
+*.bak

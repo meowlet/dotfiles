@@ -1,8 +1,10 @@
-# bun completions
-[ -s "$HOME/.bun/_bun" ] && source "$HOME/.bun/_bun"
+# User local binaries
+export PATH="$HOME/.local/bin:$PATH"
 
-# bun
+# Bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
+[ -s "$HOME/.bun/_bun" ] && source "$HOME/.bun/_bun"
 
-export PATH="$HOME/.local/bin:$PATH"
+# Add custom paths below
+# export PATH="/custom/path:$PATH"
