@@ -20,5 +20,5 @@ brew "zsh-autosuggestions"
 # brew "neovim"                 # Text editor
 
 # Casks (GUI apps) - uncomment as needed
-# cask "font-jetbrains-mono-nerd-font"
-# cask "ghostty"
+cask "font-jetbrains-mono-nerd-font"
+cask "ghostty"
