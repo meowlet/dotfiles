@@ -2,9 +2,18 @@
 
 My personal dotfiles managed with [GNU Stow](https://www.gnu.org/software/stow/).
 
+![desktop](screenshots/desktop.png)
+
 ![terminal](screenshots/terminal.png)
 
 ![cat](screenshots/cat.png)
+
+![tree](screenshots/tree.png)
+
+![lsll](screenshots/lsll.png)
+
+![git](screenshots/git.png)
+
 
 ## What's included
 
